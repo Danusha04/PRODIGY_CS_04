@@ -8,6 +8,6 @@ This project is a basic keylogger program developed in Python using the `pynput`
 ## Installation
 pip install pynput
 
-*Usage
+# Usage
 Run the program:
 python keylogger.py
